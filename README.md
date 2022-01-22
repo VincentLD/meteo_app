@@ -1,3 +1,4 @@
+![screenshot](https://github.com/VincentLD/meteo_app/blob/master/public/Capture%20d%E2%80%99%C3%A9cran%202022-01-22%20%C3%A0%2015.20.28.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
